@@ -1,2 +1,2 @@
 ### Purpose
-To test GitHub and a local repository.
+To test GitHub with a local repository.
